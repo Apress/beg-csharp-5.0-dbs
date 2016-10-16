@@ -1,0 +1,14 @@
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.MultipleResults.resources
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.Properties.Resources.resources
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vidya virat work\DataReaderForms\DataReaderForms\bin\Debug\DataReaderForms.exe
+D:\vidya virat work\DataReaderForms\DataReaderForms\bin\Debug\DataReaderForms.pdb
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.exe
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.pdb
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.OrdinalIndexer.resources
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.SchemaTable.resources
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.TypedAccessors.resources
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.ResultSetInfo.resources
+D:\vidya virat work\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.DataLooper.resources

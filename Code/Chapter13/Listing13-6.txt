@@ -1,0 +1,46 @@
+        private void btnDeleteCurrency_Click(object sender, EventArgs e)
+        {
+            // Create connection
+            SqlConnection conn = new SqlConnection(@"server = .\sql2012;
+                                                    integrated security = true;
+                                                    database = AdventureWorks");
+
+            // Create command object with Stored Procedure name
+            SqlCommand cmd = new SqlCommand("sp_DeleteCurrency", conn);
+
+            //Set command object for Stored Procedure execution
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            cmd.Parameters.Add(new SqlParameter("currCode", SqlDbType.NVarChar, 3));
+            cmd.Parameters["currCode"].Value = lstCurrency.SelectedItem.ToString();
+            try
+            {
+                // Open connection
+                conn.Open();
+                // Delete Query            
+                if (lstCurrency.SelectedIndex == -1)
+                {
+                    MessageBox.Show("Please Select a Currency before performing Delete action", "Information");
+                }
+                else
+                {
+                    cmd.ExecuteNonQuery();
+                    lblDeleteStatus.Text = "Currency is Deleted Successfully!!";
+                }
+
+            }
+            catch (SqlException ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace, "Exception Details");
+            }
+
+           // catch (NullReferenceException ex)
+           // {
+            //    MessageBox.Show("Load the Currency List first" + ex.StackTrace, "Exception Details");
+           // }
+
+            finally
+            {
+                conn.Close();
+            }
+        }

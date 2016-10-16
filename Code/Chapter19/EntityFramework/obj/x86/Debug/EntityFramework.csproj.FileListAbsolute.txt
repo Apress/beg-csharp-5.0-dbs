@@ -1,0 +1,33 @@
+D:\vidya virat work\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+D:\vidya virat work\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+D:\vidya virat work\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.AddCurrency.resources
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.DeleteCurrency.resources
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.Properties.Resources.resources
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.PublishCurrency.resources
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.UpdateCurrency.resources
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.exe
+D:\vidya virat work\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.AddCurrency.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.DeleteCurrency.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.PublishCurrency.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.UpdateCurrency.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\EntityFramework\EntityFramework\EntityFramework\obj\x86\Debug\EntityFramework.csproj.GenerateResource.Cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter19\Code\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter19\Code\EntityFramework\obj\x86\Debug\EntityFramework.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter19\Code\EntityFramework\obj\x86\Debug\EntityFramework.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter19\Code\EntityFramework\bin\Debug\EntityFramework.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter19\Code\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter19\Code\EntityFramework\obj\x86\Debug\EntityFramework.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter19\Code\EntityFramework\obj\x86\Debug\EntityFramework.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter19\Code\EntityFramework\obj\x86\Debug\EntityFramework.PublishCurrency.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter19\Code\EntityFramework\obj\x86\Debug\EntityFramework.csproj.GenerateResource.Cache

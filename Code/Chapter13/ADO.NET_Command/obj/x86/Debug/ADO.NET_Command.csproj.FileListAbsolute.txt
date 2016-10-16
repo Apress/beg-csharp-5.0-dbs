@@ -1,0 +1,37 @@
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\bin\Debug\ADO.NET_Command.exe
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\bin\Debug\ADO.NET_Command.pdb
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandSQL.resources
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.Properties.Resources.resources
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.exe
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.pdb
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandScalar.resources
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandReader.resources
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandNonQuery.resources
+D:\vidya virat work\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandParameters.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\bin\Debug\ADO.NET_Command.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\bin\Debug\ADO.NET_Command.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandNonQuery.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandParameters.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandReader.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandScalar.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.csproj.GenerateResource.Cache
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\ADO.NET_Command\ADO.NET_Command\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandText.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\bin\Debug\ADO.NET_Command.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\bin\Debug\ADO.NET_Command.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandNonQuery.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandReader.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandScalar.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandText.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.csproj.GenerateResource.Cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter13\Code\ADO.NET_Command\obj\x86\Debug\ADO.NET_Command.CommandStoredProcedure.resources

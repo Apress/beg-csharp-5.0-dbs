@@ -1,0 +1,26 @@
+        private void PublishCurrency_Load(object sender, EventArgs e)
+        {
+
+            try
+            {
+                AWCurrencyEntities currContext = new AWCurrencyEntities();
+
+                foreach (var cr in currContext.Currencies)
+                {
+                    txtCurrency.AppendText(cr.ModifiedDate.ToString());
+
+                    txtCurrency.AppendText("\t\t");
+                    txtCurrency.AppendText(cr.CurrencyCode.ToString());
+
+                    txtCurrency.AppendText("\t\t");
+                    txtCurrency.AppendText(cr.Name.ToString());
+                    txtCurrency.AppendText("\t");
+                    txtCurrency.AppendText("\n");
+                }
+            }
+
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message + ex.InnerException);
+            }
+        }

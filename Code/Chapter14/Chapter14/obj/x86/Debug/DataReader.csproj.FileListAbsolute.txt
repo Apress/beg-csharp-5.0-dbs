@@ -1,0 +1,26 @@
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\bin\Debug\DataReaderForms.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\bin\Debug\DataReaderForms.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReader.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.DataLooper.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.MultipleResults.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.OrdinalIndexer.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.ResultSetInfo.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.SchemaTable.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReaderForms.TypedAccessors.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\DataReaderForms_V2\DataReaderForms\DataReaderForms\obj\x86\Debug\DataReader.csproj.GenerateResource.Cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReaderForms.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReaderForms.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\bin\Debug\DataReaderForms.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\bin\Debug\DataReaderForms.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReader.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReaderForms.DataLooper.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReaderForms.MultipleResults.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReaderForms.OrdinalIndexer.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReaderForms.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReaderForms.ResultSetInfo.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReaderForms.SchemaTable.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReaderForms.TypedAccessors.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter14\Code\Chapter14\obj\x86\Debug\DataReader.csproj.GenerateResource.Cache

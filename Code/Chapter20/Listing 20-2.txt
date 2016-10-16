@@ -1,0 +1,13 @@
+Create Assembly SQLCLR_StoredProcedure
+from
+'C:\VidyaVrat\C#2012 and SQL 2012\Chapter20\Code\Chapter20\bin\Debug\Chapter20.dll'
+WITH PERMISSION_SET = UNSAFE
+GO
+
+CREATE PROCEDURE dbo.InsertCurrency_CS
+(
+  @currCode nvarchar(3),
+  @currName nvarchar(50)
+)
+AS EXTERNAL NAME SQLCLR_StoredProcedure.StoredProcedures.InsertCurrency_CS;
+GO

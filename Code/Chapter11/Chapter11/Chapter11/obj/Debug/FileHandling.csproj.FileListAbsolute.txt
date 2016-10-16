@@ -1,0 +1,18 @@
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\FileHandling.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\Chapter11.FileHandling.resources
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\Chapter11.Properties.Resources.resources
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\FileHandling.csproj.GenerateResource.Cache
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\bin\Debug\Chapter11.exe
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\bin\Debug\Chapter11.pdb
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\Chapter11.exe
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\Chapter11.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\Chapter11.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\Chapter11.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\bin\Debug\Chapter11.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\bin\Debug\Chapter11.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\FileHandling.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\Chapter11.FileHandling.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\Chapter11.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter11\Code\Chapter11\Chapter11\obj\Debug\FileHandling.csproj.GenerateResource.Cache

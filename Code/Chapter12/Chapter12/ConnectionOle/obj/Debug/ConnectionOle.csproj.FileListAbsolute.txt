@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionOle\bin\Debug\ConnectionOle.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionOle\bin\Debug\ConnectionOle.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionOle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionOle\obj\Debug\ConnectionOle.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionOle\obj\Debug\ConnectionOle.pdb
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionOle\obj\Debug\ConnectionOle.exe
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionOle\obj\Debug\ConnectionOle.pdb
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionOle\bin\Debug\ConnectionOle.exe
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionOle\bin\Debug\ConnectionOle.pdb
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionOle\obj\Debug\ConnectionOle.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionOle\obj\Debug\ConnectionOle.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionOle\obj\Debug\ConnectionOle.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionOle\bin\Debug\ConnectionOle.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionOle\bin\Debug\ConnectionOle.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionOle\obj\Debug\ConnectionOle.csprojResolveAssemblyReference.cache

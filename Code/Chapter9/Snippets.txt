@@ -1,0 +1,51 @@
+private void btnSubmit_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello" + ' ' + txtFname.Text + ' ' + txtLname.Text + ' ' + 
+            "Welcome to the Windows Application","Welcome", MessageBoxButtons.OKCancel,
+            MessageBoxIcon.Information);
+        } 
+
+
+private void btnAdd_Click(object sender, EventArgs e)
+        {
+           lstCountry.Items.Add(txtCountry.Text);
+           txtCountry.Clear();
+
+            cboState.Items.Add(txtState.Text);
+            txtState.Clear();  
+        }
+
+Application.Run(new ParentForm());
+
+WinApp objWA = new WinApp();
+objWA.Show();
+
+
+UserInfo objUI = new UserInfo();
+objUI.Show();
+
+
+Application.Exit();
+
+
+WinApp objWA = new WinApp();
+objWA .MdiParent = this;
+objWA .Show();
+
+
+UserInfo objUI = new UserInfo();
+objUI.MdiParent=this;
+objUI.Show();
+
+
+LayoutMdi(MdiLayout.Cascade);
+        
+        
+LayoutMdi(MdiLayout.TileHorizontal);
+        
+        
+LayoutMdi(MdiLayout.TileVertical);
+        
+
+LayoutMdi(MdiLayout.ArrangeIcons);
+        

@@ -1,0 +1,12 @@
+create table Person
+(
+     PersonID nvarchar(5) primary key not null,
+     FirstName nvarchar(10) not null,
+     Company nvarchar(15)
+)  
+
+create table PersonDetails
+(
+   PersonID nvarchar(5) foreign key references dbo.Person(PersonID),
+   Address nvarchar(30)
+)

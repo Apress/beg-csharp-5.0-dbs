@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionDisplay\bin\Debug\ConnectionDisplay.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionDisplay\bin\Debug\ConnectionDisplay.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionDisplay\obj\Debug\ConnectionDisplay.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio Codename Orcas\Projects\ConsoleApplication1\ConnectionDisplay\obj\Debug\ConnectionDisplay.pdb
+C:\Documents and Settings\Administrator\Desktop\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.exe
+C:\Documents and Settings\Administrator\Desktop\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.pdb
+C:\Documents and Settings\Administrator\Desktop\Chapter10\ConnectionDisplay\bin\Debug\ConnectionDisplay.exe
+C:\Documents and Settings\Administrator\Desktop\Chapter10\ConnectionDisplay\bin\Debug\ConnectionDisplay.pdb
+C:\Documents and Settings\Administrator\Desktop\Chapter10\ConnectionDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.exe
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.pdb
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionDisplay\bin\Debug\ConnectionDisplay.exe
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionDisplay\bin\Debug\ConnectionDisplay.pdb
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter12\Code\Chapter10\ConnectionDisplay\obj\Debug\ConnectionDisplay.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionDisplay\obj\Debug\ConnectionDisplay.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionDisplay\obj\Debug\ConnectionDisplay.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionDisplay\bin\Debug\ConnectionDisplay.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionDisplay\bin\Debug\ConnectionDisplay.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter12\Code\Chapter12\ConnectionDisplay\obj\Debug\ConnectionDisplay.csprojResolveAssemblyReference.cache

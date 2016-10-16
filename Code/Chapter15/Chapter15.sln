@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetandDataAdapter", "DataSetandDataAdapter\DataSetandDataAdapter.csproj", "{15ED99DC-32F0-4BF0-BC7A-2DD7530179FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15ED99DC-32F0-4BF0-BC7A-2DD7530179FE}.Debug|x86.ActiveCfg = Debug|x86
+		{15ED99DC-32F0-4BF0-BC7A-2DD7530179FE}.Debug|x86.Build.0 = Debug|x86
+		{15ED99DC-32F0-4BF0-BC7A-2DD7530179FE}.Release|x86.ActiveCfg = Release|x86
+		{15ED99DC-32F0-4BF0-BC7A-2DD7530179FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

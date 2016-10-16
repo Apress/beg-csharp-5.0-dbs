@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdventureWorksModel1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="AdventureWorksModel1StoreContainer">
+    <EntitySet Name="DatabaseLog" EntityType="AdventureWorksModel1.Store.DatabaseLog" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="DatabaseLog">
+    <Key>
+      <PropertyRef Name="DatabaseLogID" />
+    </Key>
+    <Property Name="DatabaseLogID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PostTime" Type="datetime" Nullable="false" />
+    <Property Name="DatabaseUser" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="Event" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="Schema" Type="nvarchar" MaxLength="128" />
+    <Property Name="Object" Type="nvarchar" MaxLength="128" />
+    <Property Name="TSQL" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="XmlEvent" Type="xml" Nullable="false" />
+  </EntityType>
+</Schema>

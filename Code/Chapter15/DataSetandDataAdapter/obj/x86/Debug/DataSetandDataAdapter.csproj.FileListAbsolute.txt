@@ -1,0 +1,31 @@
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\bin\Debug\DataSetandDataAdapter.exe
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\bin\Debug\DataSetandDataAdapter.pdb
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.DataViews.resources
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.FilterSort.resources
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.ModifyDataTable.resources
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.PersistAdds.resources
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.PersistChanges.resources
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.PersistDeletes.resources
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.Properties.Resources.resources
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.WriteXML.resources
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.exe
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.pdb
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.PersistAddsBuilder.resources
+D:\vidya virat work\DataSetandDataAdapter\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.PopDataSet.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\bin\Debug\DataSetandDataAdapter.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\bin\Debug\DataSetandDataAdapter.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.DataViews.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.FilterSort.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.ModifyDataTable.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.PersistAdds.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.PersistAddsBuilder.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.PopDataSet.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.WriteXML.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.csproj.GenerateResource.Cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter15\Code\DataSetandDataAdapter\obj\x86\Debug\DataSetandDataAdapter.csprojResolveAssemblyReference.cache

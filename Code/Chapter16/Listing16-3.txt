@@ -1,0 +1,29 @@
+<body>
+    <form id="form1" runat="server">
+    <h3>HumanResources - Employee data</h3>
+      <p>
+      <asp:Repeater id=RepData runat="server">
+         <HeaderTemplate>
+            <table border=1>
+               <tr>
+                  <td><b>Title</b></td> 
+                  <td><b>BirthDate</b></td>
+               </tr>
+         </HeaderTemplate>
+         <ItemTemplate>
+            <tr>
+               <td> 
+                  <%# DataBinder.Eval(Container.DataItem, "Title") %> 
+               </td>
+               <td> 
+                  <%# DataBinder.Eval(Container.DataItem, "BirthDate") %>
+               </td>
+            </tr>
+         </ItemTemplate>
+         <FooterTemplate>
+            </table>
+         </FooterTemplate>
+      </asp:Repeater>
+      <p>
+    </form>
+</body>

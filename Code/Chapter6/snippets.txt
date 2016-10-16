@@ -1,0 +1,62 @@
+-- Working with Stored precedure in SQL Server
+Create procedure sp_Select_All_PersonContact
+As
+select Contact.Title, Contact.FirstName, Contact.LastName
+ from Person.Contact
+
+--Executing
+execute sp_Select_All_PersonContact
+
+-- Creating Stored procedure with an Input parameter
+Create procedure sp_Contact_By_Title
+ @Title nvarchar(8)
+ As
+select Contact.Title, Contact.FirstName, Contact.LastName
+ from Person.Contact 
+ where Contact.Title = @Title
+
+--Executing
+execute sp_Contact_By_Title 'Mr.'
+
+
+-- Creating Stored procedure with an Output parameter
+Create procedure sp_CountContacts_By_Title
+ @Title nvarchar(8),
+ @TitleCount int= 0 output
+ As
+select Contact.Title, Contact.FirstName, Contact.LastName
+ from Person.Contact 
+ where Contact.Title = @Title
+
+ Select @TitleCount = count(*)
+ from Person.Contact
+ where Title=@Title
+ 
+ return @TitleCount 
+
+--Executing
+Declare @return_value int,
+		 @TitleCount int
+
+Execute @return_value=sp_CountContacts_By_Title
+@Title='Mr.',
+@TitleCount=@TitleCount output	
+
+Select 'Total Title Count' =@return_value
+
+
+--Modifying Stored procedure
+Alter procedure sp_Select_All_PersonContact
+As
+select Contact.Title, Contact.FirstName, Contact.LastName
+ from Person.Contact
+Order by Contact.LastName
+
+--Displaying definition of Stored procedure
+sp_helptext 'sp_Select_All_PersonContact'
+
+--Renaming Stored procedure
+sp_rename 'sp_Select_All_PersonContact',  
+      'sp_Select_All_ContactDetails' 
+
+

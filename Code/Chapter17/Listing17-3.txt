@@ -1,0 +1,15 @@
+        public DisplayImages()
+        {
+            InitializeComponent();
+           
+            if (images.GetRow())
+            {
+                this.txtImageName.Text = images.GetFilename();
+                this.ptbImage.Image = (Image)images.GetImage();
+            }
+            else
+            {
+                this.txtImageName.Text = "DONE";
+                this.ptbImage.Image = null;
+            }
+        }

@@ -1,0 +1,24 @@
+            StreamReader sr=null;
+
+            try
+            {
+                sr = new StreamReader(txtFileReadPath.Text);
+                txtFileContent.Text = sr.ReadToEnd();
+            }
+            catch (FileNotFoundException ex)
+            {
+                MessageBox.Show(ex.Message + " " + "Please provide valid path and filename");
+            }
+	    
+            catch (DirectoryNotFoundException ex)
+            {
+                MessageBox.Show(ex.Message + " " + "Please provide valid Directory name", "File Read Error");
+            }
+
+            finally
+            {
+                if (sr != null)
+                {
+                    sr.Close();
+                }  
+            } 

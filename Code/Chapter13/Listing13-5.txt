@@ -1,0 +1,38 @@
+        using System.Data.SqlClient
+        
+        private void btnLoadCurrency_Click(object sender, EventArgs e)
+        {
+            // Create connection
+            SqlConnection conn = new SqlConnection(@"server = .\sql2012;
+                                                    integrated security = true;
+                                                    database = AdventureWorks");
+
+            // Select query
+            string sqlSelect = @"select CurrencyCode 
+                                 from Sales.Currency";
+
+            SqlCommand cmd = new SqlCommand(sqlSelect, conn);
+
+            try
+            {
+                // Open connection
+                conn.Open();
+                // Execute query via ExecuteReader
+                SqlDataReader rdr = cmd.ExecuteReader();
+
+                while (rdr.Read())
+                {
+                    lstCurrency.Items.Add(rdr[0]);
+                }
+            }
+
+            catch (SqlException ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace, "Exception Details");
+            }
+            finally
+            {
+                conn.Close();
+            }
+
+        }

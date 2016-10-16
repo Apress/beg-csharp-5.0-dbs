@@ -1,0 +1,3 @@
+StreamReader sr = new StreamReader(txtFileReadPath.Text);
+txtFileContent.Text = sr.ReadToEnd();
+sr.Close();

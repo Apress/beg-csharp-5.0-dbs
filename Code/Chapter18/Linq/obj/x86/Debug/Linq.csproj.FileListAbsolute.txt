@@ -1,0 +1,32 @@
+D:\vidya virat work\Linq\Linq\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vidya virat work\Linq\Linq\obj\x86\Debug\Linq.LinqToObjects.resources
+D:\vidya virat work\Linq\Linq\obj\x86\Debug\Linq.Properties.Resources.resources
+D:\vidya virat work\Linq\Linq\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vidya virat work\Linq\Linq\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vidya virat work\Linq\Linq\bin\Debug\Linq.exe
+D:\vidya virat work\Linq\Linq\bin\Debug\Linq.pdb
+D:\vidya virat work\Linq\Linq\obj\x86\Debug\Linq.exe
+D:\vidya virat work\Linq\Linq\obj\x86\Debug\Linq.pdb
+D:\vidya virat work\Linq\Linq\obj\x86\Debug\Linq.LinqToXml.resources
+D:\vidya virat work\Linq\Linq\obj\x86\Debug\Linq.LinqtoSql.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\obj\x86\Debug\Linq.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\obj\x86\Debug\Linq.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\bin\Debug\Linq.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\bin\Debug\Linq.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\obj\x86\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\obj\x86\Debug\Linq.LinqToObjects.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\obj\x86\Debug\Linq.LinqtoSql.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\obj\x86\Debug\Linq.LinqToXml.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\obj\x86\Debug\Linq.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Linq\Linq\Linq\obj\x86\Debug\Linq.csproj.GenerateResource.Cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\obj\x86\Debug\Linq.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\obj\x86\Debug\Linq.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\bin\Debug\Linq.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\bin\Debug\Linq.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\obj\x86\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\obj\x86\Debug\Linq.LinqToObjects.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\obj\x86\Debug\Linq.LinqToXml.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\obj\x86\Debug\Linq.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\obj\x86\Debug\Linq.csproj.GenerateResource.Cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\bin\Debug\Linq.exe.config
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter18\Code\Linq\obj\x86\Debug\Linq.LinqToSql.resources

@@ -1,0 +1,34 @@
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\bin\Debug\Text and Binary Data.exe
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\bin\Debug\Text and Binary Data.pdb
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.LoadImages.resources
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.Properties.Resources.resources
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text and Binary Data.exe
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text and Binary Data.pdb
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.DisplayImages.resources
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.LoadText.resources
+D:\vidya virat work\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.RetrieveText.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text and Binary Data.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text and Binary Data.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\bin\Debug\Text and Binary Data.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\bin\Debug\Text and Binary Data.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text and Binary Data.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.DisplayImages.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.LoadImages.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.LoadText.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.RetrieveText.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Work frfom Ajay\Text and Binary Data\Text and Binary Data\Text and Binary Data\obj\x86\Debug\Text and Binary Data.csproj.GenerateResource.Cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\obj\x86\Debug\Text and Binary Data.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\obj\x86\Debug\Text and Binary Data.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\bin\Debug\Text and Binary Data.exe
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\bin\Debug\Text and Binary Data.pdb
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\obj\x86\Debug\Text and Binary Data.csprojResolveAssemblyReference.cache
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.DisplayImages.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.LoadImages.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.LoadText.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.Properties.Resources.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\obj\x86\Debug\Text_and_Binary_Data.RetrieveText.resources
+C:\VidyaVrat\C#2012 and SQL 2012\Chapter17\Code\Text and Binary Data\obj\x86\Debug\Text and Binary Data.csproj.GenerateResource.Cache

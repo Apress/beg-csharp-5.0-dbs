@@ -1,0 +1,7 @@
+Insert into Person
+values('Vidvr','Vidya Vrat','Lionbridge Inc'),
+      ('Rupag','Rupali', 'Pearl Solutions')
+
+insert into PersonDetails
+values('Vidvr','Bellevue WA 98007'),
+      ('Rupag', 'Bellevue WA 98007')

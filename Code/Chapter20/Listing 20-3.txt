@@ -1,0 +1,1 @@
+Exec dbo.InsertCurrency_CS 'ABC','United States of America'

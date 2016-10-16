@@ -1,0 +1,76 @@
+﻿using System;
+using System.Text;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Data.SqlClient;
+using System.Windows.Forms;
+
+namespace DataReaderForms
+{
+    public partial class OrdinalIndexer : Form
+    {
+        public OrdinalIndexer()
+        {
+            InitializeComponent();
+        }
+
+        private void OrdinalIndexer_Load(object sender, EventArgs e)
+        {
+            // Connection string
+            string connString = @"server=.\sql2012;database=AdventureWorks;Integrated Security=SSPI";
+
+            // Query
+            string sql = @" select FirstName,LastName 
+                            from  Person.Contact 
+                            where FirstName like 'M%'";
+
+            // Create connection
+            SqlConnection conn = new SqlConnection(connString);
+
+            try
+            {
+                // Open connection
+                conn.Open();
+
+                // Create command
+                SqlCommand cmd = new SqlCommand(sql, conn);
+
+                // Create data reader
+                SqlDataReader rdr = cmd.ExecuteReader();
+                 
+                
+                // Print headings
+                StringBuilder sb=new StringBuilder();
+                txtValues.AppendText("First Name".PadRight(25));
+                txtValues.AppendText("Last Name".PadLeft(20));
+                txtValues.AppendText(Environment.NewLine);
+                txtValues.AppendText("-----------------------------------------------------------------------");
+                txtValues.AppendText(Environment.NewLine);
+
+                // Loop through result set
+                while (rdr.Read())
+                {
+                    txtValues.AppendText(rdr[0].ToString());
+                    txtValues.AppendText("\t\t\t");
+                    txtValues.AppendText(rdr[1].ToString());
+                    txtValues.AppendText(Environment.NewLine);
+                }
+
+                // Close reader
+                rdr.Close();               
+            }
+
+            catch (SqlException ex)
+            {
+                MessageBox.Show(ex.Message + ex.StackTrace,"Exception Details");
+            }
+
+            finally
+            {
+                // Close connection
+                conn.Close();
+            } 
+        }
+    }
+}

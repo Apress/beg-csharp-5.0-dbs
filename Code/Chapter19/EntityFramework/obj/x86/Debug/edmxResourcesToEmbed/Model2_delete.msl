@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AdventureWorksModel1StoreContainer" CdmEntityContainer="AdventureWorksDeleteEntities">
+    <EntitySetMapping Name="DatabaseLogs">
+      <EntityTypeMapping TypeName="AdventureWorksModel1.DatabaseLog">
+        <MappingFragment StoreEntitySet="DatabaseLog">
+          <ScalarProperty Name="DatabaseLogID" ColumnName="DatabaseLogID" />
+          <ScalarProperty Name="PostTime" ColumnName="PostTime" />
+          <ScalarProperty Name="DatabaseUser" ColumnName="DatabaseUser" />
+          <ScalarProperty Name="Event" ColumnName="Event" />
+          <ScalarProperty Name="Schema" ColumnName="Schema" />
+          <ScalarProperty Name="Object" ColumnName="Object" />
+          <ScalarProperty Name="TSQL" ColumnName="TSQL" />
+          <ScalarProperty Name="XmlEvent" ColumnName="XmlEvent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

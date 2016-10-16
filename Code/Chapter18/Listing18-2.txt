@@ -1,0 +1,52 @@
+using System.Data.Linq;
+using System.Data.Linq.Mapping;        
+       
+[Table(Name = "Person.Contact")]
+        public class Contact
+        {
+            [Column]
+            public string Title;
+            [Column]
+            public string FirstName;         
+            [Column]
+            public string LastName;
+        }
+
+        private void LinqtoSql_Load(object sender, EventArgs e)
+        {
+            // Connection string
+            string connString = @"server = .\sql2012;integrated security = true;database = AdventureWorks";        
+            
+            try 
+            {
+
+                // Create data context 
+                DataContext db = new DataContext(connString);
+
+                // Create typed table 
+                Table<Contact> contacts = db.GetTable<Contact>();
+
+                // Query database
+                var contactDetails =
+                   from c in contacts
+                   where c.Title == "Mr."
+                   orderby c.FirstName
+                   select c;
+
+                // Display Contact details
+                foreach (var c in contactDetails)
+                {
+                    txtLinqtoSql.AppendText(c.Title);
+                    txtLinqtoSql.AppendText("\t");
+                    txtLinqtoSql.AppendText(c.FirstName);
+                    txtLinqtoSql.AppendText("\t");
+                    txtLinqtoSql.AppendText(c.LastName);
+                    txtLinqtoSql.AppendText("\n");
+                }
+            }
+
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }

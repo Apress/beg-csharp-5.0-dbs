@@ -1,0 +1,9 @@
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter20\Code\Chapter20\Chapter20\Chapter20\bin\Debug\Chapter20.dacpac
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter20\Code\Chapter20\Chapter20\Chapter20\bin\Debug\Chapter20.dll
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter20\Code\Chapter20\Chapter20\Chapter20\bin\Debug\Chapter20.pdb
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter20\Code\Chapter20\Chapter20\Chapter20\obj\Debug\Model.xml
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter20\Code\Chapter20\Chapter20\Chapter20\obj\Debug\refactor.xml
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter20\Code\Chapter20\Chapter20\Chapter20\obj\Debug\postdeploy.sql
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter20\Code\Chapter20\Chapter20\Chapter20\obj\Debug\predeploy.sql
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter20\Code\Chapter20\Chapter20\Chapter20\obj\Debug\Chapter20.dll
+C:\VidyaVrat\Book Ideas\C#2012 and SQL 2012\Chapter20\Code\Chapter20\Chapter20\Chapter20\obj\Debug\Chapter20.pdb

@@ -1,0 +1,3 @@
+StreamWriter sw = new StreamWriter(txtFileWritePath.Text, true);
+sw.WriteLine(txtFileText.Text);
+sw.Close();

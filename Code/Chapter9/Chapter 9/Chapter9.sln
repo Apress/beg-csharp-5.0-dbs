@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApp", "WinApp\WinApp.csproj", "{102B1FCA-2888-4FE9-912A-50734006EB8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52252CE2-29F6-4BEF-B35A-1B0C8C70B3DF}"
+	ProjectSection(SolutionItems) = preProject
+		Chapter9.vsmdi = Chapter9.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Chapter9.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102B1FCA-2888-4FE9-912A-50734006EB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102B1FCA-2888-4FE9-912A-50734006EB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102B1FCA-2888-4FE9-912A-50734006EB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102B1FCA-2888-4FE9-912A-50734006EB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

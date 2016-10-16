@@ -1,0 +1,12 @@
+exec sp_Trans_Test 'Pearl', 'Vamika ', null,'Agraw'
+
+exec sp_Trans_Test 'Spark', 'Arshika ', null,'Agarw'
+
+exec sp_Trans_Test 'Pearl', 'Vamika', null,'Spark'
+
+exec sp_Trans_Test 'ag', 'Agarwal ',null, 'Vidvr'
+
+exec sp_Trans_Test 'Pearl', 'Vamika', null,'Rupag'
+
+select * from Person
+
